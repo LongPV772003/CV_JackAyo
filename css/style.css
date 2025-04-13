@@ -3,7 +3,10 @@ body {
   color: #333;
   scroll-behavior: smooth;
 }
-
+.logo{
+  text-decoration: none;
+  color:#000000;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
